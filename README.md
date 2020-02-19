@@ -1,4 +1,4 @@
-# Acidentes-Rodovi-rios-Americanos
+# Acidentes Rodoviários Americanos
  
 Seja bem vindo ao exercício da Seguradora de Automóveis Tera S.A.
 
